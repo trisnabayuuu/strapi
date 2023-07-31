@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tikets",
+  "info": {
+    "singularName": "tiket",
+    "pluralName": "tikets",
+    "displayName": "tiket"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "lokasi": {
+      "type": "string"
+    }
+  }
+}
